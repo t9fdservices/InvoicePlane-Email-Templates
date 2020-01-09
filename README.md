@@ -3,7 +3,7 @@
 
 [InvoicePlane Email Templates](https:t9fd.com/) is an email template for InvoicePlane open source software [InvoicePlane](https://invoiceplane.org/) created by [T9FD Services](https:t9fd.com/).
 
-## Development
+## Development 
 
 Please Note: The code in the HTML is represents the way we have it setup for ourselves (T9FD Services). You will need to replace the company name and corresponding information and logo to march you use case.
 
